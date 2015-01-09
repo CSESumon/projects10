@@ -1,0 +1,12 @@
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\bin\Debug\StudentDepartmentInfoApp.exe.config
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\bin\Debug\StudentDepartmentInfoApp.exe
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\bin\Debug\StudentDepartmentInfoApp.pdb
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.csprojResolveAssemblyReference.cache
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.DepartmentInfoUI.resources
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.Properties.Resources.resources
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.csproj.GenerateResource.Cache
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.exe
+F:\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.pdb
+E:\Work\ASP.Net\Prac\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\bin\Debug\StudentDepartmentInfoApp.exe.config
+E:\Work\ASP.Net\Prac\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.exe
+E:\Work\ASP.Net\Prac\31-12-14\StudentDepartmentInfoApp\StudentDepartmentInfoApp\obj\Debug\StudentDepartmentInfoApp.pdb
